@@ -1,0 +1,10 @@
+{
+  "name": "mock-vue-router",
+  "version": "1.0.0",
+  "description": "A very simple todo app to provide a taste of developing with single-file components.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vue": "2.5.3"
+  }
+}
