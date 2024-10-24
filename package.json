@@ -5,6 +5,6 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "vue": "2.5.3"
+    "vue": "3.0.0"
   }
 }
